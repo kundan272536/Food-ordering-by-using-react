@@ -48,4 +48,8 @@
 }
 .res-card-details{
     margin: 5px;
+    line-height: 1;
 }
+/* .res-card-details > h4{
+    margin-top: -10px;
+} */

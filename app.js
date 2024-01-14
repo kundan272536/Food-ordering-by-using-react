@@ -1406,7 +1406,7 @@ const RestaurantCard = props => {
           {name}
         </h3>
         <h4>
-          {cuisines}
+          {cuisines.join(",")}
         </h4>
         <h4>
           {avgRating}
