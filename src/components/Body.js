@@ -1,5 +1,5 @@
 import RestaurantCard from "./RestaurantCard";
-import restaurantData from "./restaurantData";
+import restaurantData from "../utils/mockData";
 const Body = () => {
     return (
       <div className="body">
